@@ -2,9 +2,31 @@
   "name": "@mxjs/a-ueditor",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "twinh",
   "license": "MIT",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@mxjs/a-form": "^2.0.3",
+    "@mxjs/ueditor": "^0.2.28"
+  },
+  "devDependencies": {
+    "@miaoxing/dev": "^9.1.0",
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
+  },
+  "jest": {
+    "preset": "jest-preset-miaoxing"
+  },
+  "ciDependencies": {
+    "babel-preset-miaoxing": "miaoxing/babel-preset-miaoxing",
+    "jest-preset-miaoxing": "miaoxing/jest-preset-miaoxing",
+    "@miaoxing/dev": "miaoxing/dev"
   }
 }
