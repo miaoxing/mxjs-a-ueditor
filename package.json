@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/a-ueditor",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "author": "twinh",
   "license": "MIT",
@@ -9,8 +9,8 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@mxjs/a-form": "^2.0.3",
-    "@mxjs/ueditor": "^0.2.28"
+    "@mxjs/a-form": "^2.1.0",
+    "@mxjs/ueditor": "^0.2.29"
   },
   "devDependencies": {
     "@miaoxing/dev": "^9.1.0",
