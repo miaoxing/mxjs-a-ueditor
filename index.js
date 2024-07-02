@@ -1,1 +1,5 @@
-export FormUeditor from './FormUeditor';
+import FormUeditor from './FormUeditor';
+
+export {
+  FormUeditor
+}
