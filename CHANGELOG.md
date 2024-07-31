@@ -1,3 +1,20 @@
+## [1.1.6](https://github.com/miaoxing/mxjs-a-ueditor/compare/v1.1.5...v1.1.6) (2024-07-31)
+
+
+### Bug Fixes
+
+* `export default from` 改为标准语法 ([c9c3e55](https://github.com/miaoxing/mxjs-a-ueditor/commit/c9c3e5509af2bca0a26cd9082cecb612a6558dd5))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-form:** upgrade from `3.0.2` to `4.0.0`
+* **@mxjs/ueditor:** upgrade from `0.3.0` to `0.3.1`
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.1.5](https://github.com/miaoxing/mxjs-a-ueditor/compare/v1.1.4...v1.1.5) (2024-06-30)
 
 
