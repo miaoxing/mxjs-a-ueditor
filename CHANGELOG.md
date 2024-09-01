@@ -1,3 +1,15 @@
+## [1.1.9](https://github.com/miaoxing/mxjs-a-ueditor/compare/v1.1.8...v1.1.9) (2024-09-01)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-form:** upgrade from `4.0.2` to `4.1.0`
+* **@mxjs/ueditor:** upgrade from `0.3.2` to `0.3.3`
+* **@miaoxing/dev:** upgrade from `9.1.3` to `9.2.0`
+
 ## [1.1.8](https://github.com/miaoxing/mxjs-a-ueditor/compare/v1.1.7...v1.1.8) (2024-08-03)
 
 
